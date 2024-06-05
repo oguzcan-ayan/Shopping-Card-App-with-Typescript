@@ -27,10 +27,10 @@ This application allows users to select their products just like an e-commerce a
 
 
 
-Projeyi canlı olarak görmek istiyorsanız, [Projeye Git]()
+Projeyi canlı olarak görmek istiyorsanız, [Projeye Git](https://shopping-card-app-five.vercel.app/)
 
 
-If you want to see the Project, [Go Live]()
+If you want to see the Project, [Go Live](https://shopping-card-app-five.vercel.app/)
 
 
 
